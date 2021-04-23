@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">AMBIL UNTUNG V.2.1</string>
+
+    <string name="fragment_account">THIS ACCOUNT</string>
+    <string name="fragment_category">THIS CATEGORY</string>
+    <string name="fragment_home">.</string>
+    <string name="fragment_search">THIS SEARCH</string>
+    <string name="fragment_statistic">THIS STATISTIC</string>
+    <!--___________________________________________________-->
+
+
+    <string name="text_home">HOME</string>
+    <string name="text_category">CATEGORY</string>
+    <string name="text_search">SEARCH</string>
+    <string name="text_statistic">STATISTIC</string>
+    <string name="text_account">ACCOUNT</string>
+    <!--___________________________________________________-->
+    <string name="text_view_scroll">
+        WELCOME
+    </string>
+    <!--___________________________________________________-->
+    <string name="title_listitems">JUDUL DISINI GUYS</string>
+    <string name="description">test.</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="more">More</string>
+    <string name="share">Share</string>
+    <!--___________________________________________________-->
+    <string name="text_password_activity_signup">PASSWORD</string>
+    <string name="text_signup_activity_signup">Next</string>
+    <string name="text_loginhere_activity_signup">already account click here</string>
+    <string name="text_username_sign_up_activity_signup">USERNAME</string>
+    <string name="text_email_activity_signup">EMAIL</string>
+    <string name="text_full_name_signup_activity_signup">FULLNAME</string>
+    <string name="text_sign_up_activity_signup">hey there, Welcome back!</string>
+    <!--___________________________________________________-->
+    <string name="username_text_activity_login">Username</string>
+    <string name="password_text_activity_login">Password</string>
+    <string name="login_text_activity_login">LOGIN</string>
+    <style name="btn_login_activity_login">LOGIN</style>
+    <string name="text_loginhere_activity_login">create account or sign-up?</string>
+    <string name="text_view_login">WELCOME</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">loading...</string>
+    <!--___________________________________________________-->
+
+
+</resources>

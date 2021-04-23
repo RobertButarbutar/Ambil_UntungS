@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="@string/text_home"
+        android:icon="@drawable/ic_home"
+        />
+    <item
+        android:id="@+id/category"
+        android:title="@string/text_category"
+        android:icon="@drawable/ic_category"
+        />
+    <item
+        android:id="@+id/search"
+        android:title="@string/text_search"
+        android:icon="@drawable/ic_search"
+        />
+    <item
+        android:id="@+id/statistic"
+        android:title="@string/text_statistic"
+        android:icon="@drawable/ic_statistic"
+        />
+    <item
+        android:id="@+id/account"
+        android:title="@string/text_account"
+        android:icon="@drawable/ic_account"
+        />
+
+</menu>
